@@ -1,0 +1,16 @@
+{
+  "For Loop": {
+    "prefix": [
+      "csc",
+      "css-structure-comment"
+    ],
+    "body": [
+      "/* Layout */\n\n",
+      "/* Spacing */\n\n",
+      "/* Typography */\n\n",
+      "/* Colors */\n\n",
+      "/* Others */\n",
+    ],
+    "description": "Add better comments for your css."
+  }
+}
