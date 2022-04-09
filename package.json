@@ -2,7 +2,12 @@
     "name": "css-structure-comment",
     "displayName": "css-structure-comment",
     "description": "Add better comments for your CSS",
+    "publisher": "gurrrung",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/gurrrung/css-structure-comment.git"
+      },
     "engines": {
         "vscode": "^1.66.0"
     },
